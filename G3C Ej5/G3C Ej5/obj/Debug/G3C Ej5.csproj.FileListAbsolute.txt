@@ -1,0 +1,7 @@
+C:\Users\yaser\source\repos\G3C Ej5\G3C Ej5\bin\Debug\G3C Ej5.exe.config
+C:\Users\yaser\source\repos\G3C Ej5\G3C Ej5\bin\Debug\G3C Ej5.exe
+C:\Users\yaser\source\repos\G3C Ej5\G3C Ej5\bin\Debug\G3C Ej5.pdb
+C:\Users\yaser\source\repos\G3C Ej5\G3C Ej5\obj\Debug\G3C Ej5.csproj.CoreCompileInputs.cache
+C:\Users\yaser\source\repos\G3C Ej5\G3C Ej5\obj\Debug\G3C Ej5.exe
+C:\Users\yaser\source\repos\G3C Ej5\G3C Ej5\obj\Debug\G3C Ej5.pdb
+C:\Users\yaser\source\repos\G3C Ej5\G3C Ej5\obj\Debug\G3C Ej5.csprojAssemblyReference.cache

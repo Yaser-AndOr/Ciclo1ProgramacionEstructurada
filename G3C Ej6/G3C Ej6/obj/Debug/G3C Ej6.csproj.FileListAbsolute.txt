@@ -1,7 +1,0 @@
-C:\Users\yaser\source\repos\G3C Ej6\G3C Ej6\bin\Debug\G3C Ej6.exe.config
-C:\Users\yaser\source\repos\G3C Ej6\G3C Ej6\bin\Debug\G3C Ej6.exe
-C:\Users\yaser\source\repos\G3C Ej6\G3C Ej6\bin\Debug\G3C Ej6.pdb
-C:\Users\yaser\source\repos\G3C Ej6\G3C Ej6\obj\Debug\G3C Ej6.csprojAssemblyReference.cache
-C:\Users\yaser\source\repos\G3C Ej6\G3C Ej6\obj\Debug\G3C Ej6.csproj.CoreCompileInputs.cache
-C:\Users\yaser\source\repos\G3C Ej6\G3C Ej6\obj\Debug\G3C Ej6.exe
-C:\Users\yaser\source\repos\G3C Ej6\G3C Ej6\obj\Debug\G3C Ej6.pdb

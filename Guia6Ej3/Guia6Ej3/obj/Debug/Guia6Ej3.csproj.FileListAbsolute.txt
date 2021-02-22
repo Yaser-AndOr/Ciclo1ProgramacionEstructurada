@@ -1,0 +1,7 @@
+C:\Users\yaser\source\repos\Guia6Ej3\Guia6Ej3\bin\Debug\Guia6Ej3.exe.config
+C:\Users\yaser\source\repos\Guia6Ej3\Guia6Ej3\bin\Debug\Guia6Ej3.exe
+C:\Users\yaser\source\repos\Guia6Ej3\Guia6Ej3\bin\Debug\Guia6Ej3.pdb
+C:\Users\yaser\source\repos\Guia6Ej3\Guia6Ej3\obj\Debug\Guia6Ej3.csprojAssemblyReference.cache
+C:\Users\yaser\source\repos\Guia6Ej3\Guia6Ej3\obj\Debug\Guia6Ej3.csproj.CoreCompileInputs.cache
+C:\Users\yaser\source\repos\Guia6Ej3\Guia6Ej3\obj\Debug\Guia6Ej3.exe
+C:\Users\yaser\source\repos\Guia6Ej3\Guia6Ej3\obj\Debug\Guia6Ej3.pdb

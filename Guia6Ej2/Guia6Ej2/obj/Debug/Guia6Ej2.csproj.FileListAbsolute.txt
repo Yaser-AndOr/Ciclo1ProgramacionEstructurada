@@ -1,7 +1,0 @@
-C:\Users\yaser\source\repos\Guia6Ej2\Guia6Ej2\obj\Debug\Guia6Ej2.csproj.CoreCompileInputs.cache
-C:\Users\yaser\source\repos\Guia6Ej2\Guia6Ej2\bin\Debug\Guia6Ej2.exe.config
-C:\Users\yaser\source\repos\Guia6Ej2\Guia6Ej2\bin\Debug\Guia6Ej2.exe
-C:\Users\yaser\source\repos\Guia6Ej2\Guia6Ej2\bin\Debug\Guia6Ej2.pdb
-C:\Users\yaser\source\repos\Guia6Ej2\Guia6Ej2\obj\Debug\Guia6Ej2.exe
-C:\Users\yaser\source\repos\Guia6Ej2\Guia6Ej2\obj\Debug\Guia6Ej2.pdb
-C:\Users\yaser\source\repos\Guia6Ej2\Guia6Ej2\obj\Debug\Guia6Ej2.csprojAssemblyReference.cache

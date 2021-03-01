@@ -17,7 +17,10 @@ namespace Guia7Ej3
 
             if ((n1 % 2 == 0) == false)
             {
-                n1++;
+                if (n1 < n2)
+                    n1++;
+                if (n1 > n2)
+                    n1--;
                 Console.Write(n1 + ", ");
             }
             if (n2 > n1)

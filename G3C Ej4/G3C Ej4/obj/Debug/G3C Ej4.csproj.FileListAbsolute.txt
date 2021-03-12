@@ -1,6 +1,0 @@
-C:\Users\yaser\source\repos\G3C Ej4\G3C Ej4\obj\Debug\G3C Ej4.csproj.CoreCompileInputs.cache
-C:\Users\yaser\source\repos\G3C Ej4\G3C Ej4\bin\Debug\G3C Ej4.exe.config
-C:\Users\yaser\source\repos\G3C Ej4\G3C Ej4\bin\Debug\G3C Ej4.exe
-C:\Users\yaser\source\repos\G3C Ej4\G3C Ej4\bin\Debug\G3C Ej4.pdb
-C:\Users\yaser\source\repos\G3C Ej4\G3C Ej4\obj\Debug\G3C Ej4.exe
-C:\Users\yaser\source\repos\G3C Ej4\G3C Ej4\obj\Debug\G3C Ej4.pdb

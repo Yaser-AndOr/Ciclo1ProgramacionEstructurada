@@ -1,0 +1,7 @@
+C:\Users\yaser\source\repos\Guia8_Ej2\Guia8_Ej2\obj\Debug\Guia8_Ej2.csprojAssemblyReference.cache
+C:\Users\yaser\source\repos\Guia8_Ej2\Guia8_Ej2\obj\Debug\Guia8_Ej2.csproj.CoreCompileInputs.cache
+C:\Users\yaser\source\repos\Guia8_Ej2\Guia8_Ej2\bin\Debug\Guia8_Ej2.exe.config
+C:\Users\yaser\source\repos\Guia8_Ej2\Guia8_Ej2\bin\Debug\Guia8_Ej2.exe
+C:\Users\yaser\source\repos\Guia8_Ej2\Guia8_Ej2\bin\Debug\Guia8_Ej2.pdb
+C:\Users\yaser\source\repos\Guia8_Ej2\Guia8_Ej2\obj\Debug\Guia8_Ej2.exe
+C:\Users\yaser\source\repos\Guia8_Ej2\Guia8_Ej2\obj\Debug\Guia8_Ej2.pdb

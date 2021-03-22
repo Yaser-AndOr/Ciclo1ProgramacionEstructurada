@@ -1,0 +1,7 @@
+C:\Users\yaser\source\repos\Guia9_Ej1\Guia9_Ej1\bin\Debug\Guia9_Ej1.exe.config
+C:\Users\yaser\source\repos\Guia9_Ej1\Guia9_Ej1\bin\Debug\Guia9_Ej1.exe
+C:\Users\yaser\source\repos\Guia9_Ej1\Guia9_Ej1\bin\Debug\Guia9_Ej1.pdb
+C:\Users\yaser\source\repos\Guia9_Ej1\Guia9_Ej1\obj\Debug\Guia9_Ej1.csprojAssemblyReference.cache
+C:\Users\yaser\source\repos\Guia9_Ej1\Guia9_Ej1\obj\Debug\Guia9_Ej1.csproj.CoreCompileInputs.cache
+C:\Users\yaser\source\repos\Guia9_Ej1\Guia9_Ej1\obj\Debug\Guia9_Ej1.exe
+C:\Users\yaser\source\repos\Guia9_Ej1\Guia9_Ej1\obj\Debug\Guia9_Ej1.pdb

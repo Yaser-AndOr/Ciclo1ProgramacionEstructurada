@@ -1,0 +1,7 @@
+C:\Users\yaser\source\repos\Guia9_Ej5\Guia9_Ej5\bin\Debug\Guia9_Ej5.exe.config
+C:\Users\yaser\source\repos\Guia9_Ej5\Guia9_Ej5\bin\Debug\Guia9_Ej5.exe
+C:\Users\yaser\source\repos\Guia9_Ej5\Guia9_Ej5\bin\Debug\Guia9_Ej5.pdb
+C:\Users\yaser\source\repos\Guia9_Ej5\Guia9_Ej5\obj\Debug\Guia9_Ej5.csprojAssemblyReference.cache
+C:\Users\yaser\source\repos\Guia9_Ej5\Guia9_Ej5\obj\Debug\Guia9_Ej5.csproj.CoreCompileInputs.cache
+C:\Users\yaser\source\repos\Guia9_Ej5\Guia9_Ej5\obj\Debug\Guia9_Ej5.exe
+C:\Users\yaser\source\repos\Guia9_Ej5\Guia9_Ej5\obj\Debug\Guia9_Ej5.pdb

@@ -1,6 +1,0 @@
-C:\Users\yaser\source\repos\G3A Ej2\G3A Ej2\bin\Debug\G3A Ej2.exe.config
-C:\Users\yaser\source\repos\G3A Ej2\G3A Ej2\bin\Debug\G3A Ej2.exe
-C:\Users\yaser\source\repos\G3A Ej2\G3A Ej2\bin\Debug\G3A Ej2.pdb
-C:\Users\yaser\source\repos\G3A Ej2\G3A Ej2\obj\Debug\G3A Ej2.csproj.CoreCompileInputs.cache
-C:\Users\yaser\source\repos\G3A Ej2\G3A Ej2\obj\Debug\G3A Ej2.exe
-C:\Users\yaser\source\repos\G3A Ej2\G3A Ej2\obj\Debug\G3A Ej2.pdb

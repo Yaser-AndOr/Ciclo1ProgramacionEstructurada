@@ -1,0 +1,7 @@
+C:\Users\yaser\source\repos\Guia11_Ej2\Guia11_Ej2\bin\Debug\Guia11_Ej2.exe.config
+C:\Users\yaser\source\repos\Guia11_Ej2\Guia11_Ej2\bin\Debug\Guia11_Ej2.exe
+C:\Users\yaser\source\repos\Guia11_Ej2\Guia11_Ej2\bin\Debug\Guia11_Ej2.pdb
+C:\Users\yaser\source\repos\Guia11_Ej2\Guia11_Ej2\obj\Debug\Guia11_Ej2.csprojAssemblyReference.cache
+C:\Users\yaser\source\repos\Guia11_Ej2\Guia11_Ej2\obj\Debug\Guia11_Ej2.csproj.CoreCompileInputs.cache
+C:\Users\yaser\source\repos\Guia11_Ej2\Guia11_Ej2\obj\Debug\Guia11_Ej2.exe
+C:\Users\yaser\source\repos\Guia11_Ej2\Guia11_Ej2\obj\Debug\Guia11_Ej2.pdb
